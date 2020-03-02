@@ -1,5 +1,7 @@
-with open('E:\log.txt','w',encoding='utf-8')as f:
-    f.write('wweweaesdawd')
-    f.writelines(['sss','aweae\n','wawdadwawdadw'])
-with open('E:\log.txt','r',encoding='utf-8')as f:
-    print(f.read())
+with open('C:\\Users\\1\Desktop\\正则例子.txt','r',encoding='utf-8')as f:
+    str=f.read()
+    print(str)
+    print(str)
+    print(str)
+
+

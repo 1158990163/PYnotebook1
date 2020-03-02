@@ -1,4 +1,5 @@
 import re
+import jieba
 #re.findall返回的结果是一个列表，所以在使用findall返回的结果时需要加上下表。
 str = '''
 有效：
